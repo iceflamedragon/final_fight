@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+rplidar/ros2_ws/build/
+rplidar/ros2_ws/install/
+rplidar/ros2_ws/log/
